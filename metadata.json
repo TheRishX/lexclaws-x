@@ -1,0 +1,6 @@
+{
+  "name": "Lex Claws",
+  "description": "Premium All-in-One Legal Solutions, combining general Indian Law consultations, interactive document filing fee tools, and real-time intake AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
